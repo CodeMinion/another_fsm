@@ -1,5 +1,5 @@
 name: another_fsm
-description: Flutter package foundation for Finite State Machine
+description: Flutter package foundation for Finite State Machine. Includes support for state tracking, transitions and event.
 version: 0.0.1
 homepage:
 
